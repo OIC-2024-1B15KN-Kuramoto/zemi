@@ -1,0 +1,16 @@
+C:\Users\Tokagaming\Desktop\レジ\POSレジ\POSレジ\POSレジ\obj\Debug\net6.0-windows\POSレジ.csproj.GenerateResource.cache
+C:\Users\Tokagaming\Desktop\レジ\POSレジ\POSレジ\POSレジ\obj\Debug\net6.0-windows\POSレジ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tokagaming\Desktop\レジ\POSレジ\POSレジ\POSレジ\obj\Debug\net6.0-windows\POSレジ.AssemblyInfoInputs.cache
+C:\Users\Tokagaming\Desktop\レジ\POSレジ\POSレジ\POSレジ\obj\Debug\net6.0-windows\POSレジ.AssemblyInfo.cs
+C:\Users\Tokagaming\Desktop\レジ\POSレジ\POSレジ\POSレジ\obj\Debug\net6.0-windows\POSレジ.csproj.CoreCompileInputs.cache
+C:\Users\Tokagaming\Desktop\レジ\POSレジ\POSレジ\POSレジ\obj\Debug\net6.0-windows\POSレジ.Form1.resources
+C:\Users\Tokagaming\Desktop\レジ\POSレジ\POSレジ\POSレジ\bin\Debug\net6.0-windows\POSレジ.exe
+C:\Users\Tokagaming\Desktop\レジ\POSレジ\POSレジ\POSレジ\bin\Debug\net6.0-windows\POSレジ.deps.json
+C:\Users\Tokagaming\Desktop\レジ\POSレジ\POSレジ\POSレジ\bin\Debug\net6.0-windows\POSレジ.runtimeconfig.json
+C:\Users\Tokagaming\Desktop\レジ\POSレジ\POSレジ\POSレジ\bin\Debug\net6.0-windows\POSレジ.dll
+C:\Users\Tokagaming\Desktop\レジ\POSレジ\POSレジ\POSレジ\bin\Debug\net6.0-windows\POSレジ.pdb
+C:\Users\Tokagaming\Desktop\レジ\POSレジ\POSレジ\POSレジ\obj\Debug\net6.0-windows\POSレジ.dll
+C:\Users\Tokagaming\Desktop\レジ\POSレジ\POSレジ\POSレジ\obj\Debug\net6.0-windows\refint\POSレジ.dll
+C:\Users\Tokagaming\Desktop\レジ\POSレジ\POSレジ\POSレジ\obj\Debug\net6.0-windows\POSレジ.pdb
+C:\Users\Tokagaming\Desktop\レジ\POSレジ\POSレジ\POSレジ\obj\Debug\net6.0-windows\POSレジ.genruntimeconfig.cache
+C:\Users\Tokagaming\Desktop\レジ\POSレジ\POSレジ\POSレジ\obj\Debug\net6.0-windows\ref\POSレジ.dll
